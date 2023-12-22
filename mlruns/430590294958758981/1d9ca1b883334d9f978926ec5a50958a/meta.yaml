@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/430590294958758981/1d9ca1b883334d9f978926ec5a50958a/artifacts
+end_time: 1703234623965
+entry_point_name: ''
+experiment_id: '430590294958758981'
+lifecycle_stage: active
+run_id: 1d9ca1b883334d9f978926ec5a50958a
+run_name: apples_rf_test
+run_uuid: 1d9ca1b883334d9f978926ec5a50958a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703234621617
+status: 3
+tags: []
+user_id: maju
