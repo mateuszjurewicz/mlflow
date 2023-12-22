@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/336971655772693158/6c6916d7b2e04a6a84cc0845f7e8efee/artifacts
+deleted_time: 1703232736905
+end_time: 1703231654670
+entry_point_name: ''
+experiment_id: '336971655772693158'
+lifecycle_stage: deleted
+run_id: 6c6916d7b2e04a6a84cc0845f7e8efee
+run_name: zealous-snipe-173
+run_uuid: 6c6916d7b2e04a6a84cc0845f7e8efee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703231652745
+status: 3
+tags: []
+user_id: maju

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1703231654664
+current_stage: None
+description: ''
+last_updated_timestamp: 1703231654664
+name: first-test-model
+run_id: 6c6916d7b2e04a6a84cc0845f7e8efee
+run_link: ''
+source: mlflow-artifacts:/336971655772693158/6c6916d7b2e04a6a84cc0845f7e8efee/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/336971655772693158/6c6916d7b2e04a6a84cc0845f7e8efee/artifacts/iris_model
+user_id: null
+version: 1

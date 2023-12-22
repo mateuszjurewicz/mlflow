@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336971655772693158/11eccf8e6475469e8890390f3427bb29/artifacts
+end_time: 1703232645690
+entry_point_name: ''
+experiment_id: '336971655772693158'
+lifecycle_stage: active
+run_id: 11eccf8e6475469e8890390f3427bb29
+run_name: zealous-snipe-173
+run_uuid: 11eccf8e6475469e8890390f3427bb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703232644381
+status: 3
+tags: []
+user_id: maju
